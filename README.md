@@ -1,3 +1,7 @@
+## Projeto criado apenas para eu tentar mostar para os meus companheiros de projeto o porque de tantas páginas e index.js "componentes".
+#Explicar para eles sobre uma arquitetura de código que ajuda outra pessoa entender o código não somnete a pessoal que o criou.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
