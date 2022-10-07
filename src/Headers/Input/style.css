@@ -1,0 +1,18 @@
+.button-input {
+    background-color: #47474713;
+    width: 559px;
+    height: 60px;
+    border-radius: 8px;
+    color: #666666;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    border:none;
+}
+ 
+.input-Input{
+    background-color: #47474700;
+    border: none;
+
+}

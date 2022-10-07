@@ -1,0 +1,25 @@
+header {
+    align-items: center;
+}
+
+.h1 {
+    margin-left: -40px;
+    color: #C92071;
+    font-weight: 600;
+    font-size: 36.3951px;
+    line-height: 44px;
+}
+
+.cadastrar {
+    width: 102px;
+    height: 28px;
+
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+
+    letter-spacing: 0.75px;
+    text-decoration: underline;
+
+    color: #474747;
+}
